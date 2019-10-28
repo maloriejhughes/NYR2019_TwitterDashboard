@@ -1,0 +1,12 @@
+name: 2019_nyr
+title: 2019_NYR
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2414
+bundleId: 25729
+url: https://colorado.rstudio.com:443/rsc/content/2414/
+when: 1557596423.13403
+asMultiple: FALSE
+asStatic: FALSE
